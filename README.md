@@ -26,7 +26,7 @@ You will need Python 3.6 or higher to run the command directly. **No other depen
 2. Enter the directory.
 
    ```bash
-   cd water-overflow
+   cd Water Overflow Problem- Plexus
    ```
 
 3. Run the Python script.
